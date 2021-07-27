@@ -79,3 +79,19 @@ a:link{
 a:hover{
     text-decoration:underline;
 }
+
+.center
+{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+button{
+    padding: 7px;
+    border-radius: 10px;
+    background-color: black;
+    color: rgb(131, 114, 114);
+  cursor:grab;
+}
