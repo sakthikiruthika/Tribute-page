@@ -1,0 +1,81 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(131, 114, 114);
+}
+
+.header
+{
+    border:5px inset rgb(70, 65, 65);
+    background-color: rgb(56, 50, 50);
+    color:white;
+    padding:40px;
+    text-align: center;
+    font-size:xx-large;
+}
+h1{
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+    padding:30px;
+    font-family: cursive;
+}
+
+.birth
+{
+    
+    text-align: center;
+    color:black;
+    padding:25px;
+}
+
+.achievement{
+    
+    text-align: center;
+    color:black;
+    padding:25px;
+}
+
+.death
+{
+    
+    text-align: center;
+    color:black;
+    padding:25px;
+    
+    
+}
+
+.birth h1{
+    color:black;
+    cursor: grab;
+    text-decoration:black;
+}
+
+.achievement h1{
+    color:black;
+    cursor: grab;
+    text-decoration: none;
+}
+
+.death h1{
+    color:black;
+    cursor: grab;
+    text-decoration: none;
+}
+
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
